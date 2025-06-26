@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mohamed+Hossam+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+Arcade!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mohamed+Hossam+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Welcome+to+My+Creative+Space!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,linux,docker,postgres" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,python,linux,git,mysql" alt="Tech Stack"/>
 </p>
 
 ---
@@ -75,7 +75,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mo-hossam-stack&style=flat-square&color=7F7FFF" alt="Profile Views"/>
-  <img src="https://badges.pufler.dev/visits/mo-hossam-stack/mo-hossam-stack" alt="Visitors"/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Mohamed%20Hossam-7F7FFF?style=flat-square" alt="Made with love"/>
 </p>
 
