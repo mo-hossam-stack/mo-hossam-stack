@@ -25,7 +25,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,python,linux,git,mysql" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,python,linux,git,vscode,opencv,bootstrap,mysql,django" alt="Tech Stack"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/mohamed-hossam-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mo-hossam-stack.github.io/my-project/" target="_blank">
+  <a href="https://mhossam.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22272E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
