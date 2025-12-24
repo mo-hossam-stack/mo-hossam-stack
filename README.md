@@ -54,70 +54,6 @@ me.say_hi()
   </a>
 </p>
 
-## � Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🦷 DPMS - Dental Patient Management System</h3>
-      <p align="center">
-        <a href="https://github.com/mo-hossam-stack/orthodontic_patient_portal" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-        </a>
-      </p>
-      <p align="center">Desktop application for managing dental patient records with comprehensive features.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📝 Full-Stack Notes App</h3>
-      <p align="center">
-        <a href="https://fullstack-jwt-notes.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
-        </a>
-      </p>
-      <p align="center">Production-ready full-stack notes application with JWT authentication.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💼 Django CRM</h3>
-      <p align="center">
-        <a href="https://github.com/mo-hossam-stack/django-crm" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-        </a>
-      </p>
-      <p align="center">Customer Relationship Management web application powered by Django.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 LeetCode Python Journey</h3>
-      <p align="center">
-        <a href="https://github.com/mo-hossam-stack/leetcode-python-journey" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-        </a>
-      </p>
-      <p align="center">Collection of Python solutions to 150+ LeetCode problems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">♟️ Chess Game</h3>
-      <p align="center">
-        <a href="https://github.com/mo-hossam-stack/python-pygame-chess" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-        </a>
-      </p>
-      <p align="center">Complete chess game implementation using Python and Pygame.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⌚ Chronograph</h3>
-      <p align="center">
-        <a href="https://mo-hossam-stack.github.io/golden-time-shop/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Live Demo"/>
-        </a>
-      </p>
-      <p align="center">Elegant e-commerce platform dedicated to luxury watches.</p>
-    </td>
-  </tr>
-</table>
 
 ## 🛠️ Tech Stack
 
@@ -166,30 +102,13 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" style="margin: 4px;" />
 </p>
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo-hossam-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="mo-hossam-stack's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=radical&hide_border=true&cache_seconds=86400" alt="mo-hossam-stack's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mo-hossam-stack&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mohamed Hossam's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-hossam-stack&theme=radical&radius=10" alt="mo-hossam-stack's Activity Graph" />
-</p>
 
 ## 💼 What I'm Up To
 
 - 🔭 Currently working on **scalable backend systems** with Django
 - 🌱 Preparing for **Google Summer of Code** contributions
-- 💡 Solving **150+ LeetCode problems** to sharpen problem-solving skills
+- 💡 Solving **180+ LeetCode problems** to sharpen problem-solving skills 
+- 🏁 Achieved **Codeforces Pupil** rank through consistent competitive programming practice
 - 🤝 Open to **collaborating on open-source projects**
 - 💬 Ask me about **Python, Django, REST APIs, Database Design**
 - 📫 Reach me at **m.hossam1050@nub.edu.eg**
@@ -201,13 +120,6 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 </p>
 
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
