@@ -107,7 +107,7 @@ me.say_hi()
 
 - 🔭 Currently working on **scalable backend systems** with Django
 - 🌱 Preparing for **Google Summer of Code** contributions
-- 💡 Solving **180+ LeetCode problems** to sharpen problem-solving skills 
+- 💡 Solving **190+ LeetCode problems** to sharpen problem-solving skills 
 - 🏁 Achieved **Codeforces Pupil** rank through consistent competitive programming practice
 - 🤝 Open to **collaborating on open-source projects**
 - 💬 Ask me about **Python, Django, REST APIs, Database Design**
