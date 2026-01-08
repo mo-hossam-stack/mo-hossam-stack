@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Mohamed Hossam</h1>
-<h3 align="center">Backend Developer | Python & Django Specialist | Open Source Enthusiast</h3>
+<h3 align="center">Backend DEV | Python & Django Specialist | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mo-hossam-stack">
@@ -12,30 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## �‍💻 About Me
 
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Mohamed Hossam"
-        self.role = "Backend Developer"
-        self.education = "Computer Science Student"
-        self.location = "Egypt"
-        self.interests = ["Scalable Systems", "API Design", "Open Source"]
-        self.current_focus = "Google Summer of Code Preparation"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = BackendDeveloper()
-me.say_hi()
-```
-
-🎓 **Computer Science Student** specializing in backend development with Python & Django  
-🚀 Building **clean, scalable APIs** and **production-ready web systems**  
-💡 Passionate about **competitive programming** and **problem-solving**  
-🌍 Active **open-source contributor** preparing for **Google Summer of Code**  
-💪 When not coding, you'll find me at the gym or playing sports  
 
 ## �🔗 Connect with Me
 
@@ -54,6 +31,24 @@ me.say_hi()
   </a>
 </p>
 
+# �‍💻 About Me
+
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Mohamed Hossam"
+        self.role = "Backend Developer"
+        self.education = "Computer Science Student"
+        self.location = "Egypt"
+        self.interests = ["Scalable Systems", "API Design", "Open Source"]
+        self.current_focus = "Google Summer of Code Preparation"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = BackendDeveloper()
+me.say_hi()
+```
 
 ## 🛠️ Tech Stack
 
@@ -103,11 +98,11 @@ me.say_hi()
 </p>
 
 
-## 💼 What I'm Up To
+## 💼 Some info :)
 
-- 🔭 Currently working on **scalable backend systems** with Django
-- 🌱 Preparing for **Google Summer of Code** contributions
-- 💡 Solving **200+ LeetCode problems** to sharpen problem-solving skills 
+- 🌱 Preparing for **Google Summer of Code 2026** contributions
+- 💡 Done **200+ LeetCode problems** 
+
 - 🏁 Achieved **Codeforces Specialist** rank through consistent competitive programming practice
 - 🤝 Open to **collaborating on open-source projects**
 - 💬 Ask me about **Python, Django, REST APIs, Database Design**
