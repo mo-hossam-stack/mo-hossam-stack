@@ -31,25 +31,15 @@
   </a>
 </p>
 
-# �‍💻 About Me
+## 📊 GitHub Stats
 
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Mohamed Hossam"
-        self.role = "Backend Developer"
-        self.education = "Computer Science Student"
-        self.location = "Egypt"
-        self.interests = ["Scalable Systems", "API Design", "Open Source"]
-        self.current_focus = "Google Summer of Code Preparation"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+### 🌟 GitHub Streak & Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mo-hossam-stack&theme=dark)](https://github.com/mo-hossam-stack)
 
-me = BackendDeveloper()
-me.say_hi()
-```
+### 📈 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=dark&langs_count=8)](https://github.com/mo-hossam-stack)
 
+---
 ## 🛠️ Tech Stack
 
 ### Programming Languages
