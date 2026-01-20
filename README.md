@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 
 ### 🌟 GitHub Streak & Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mo-hossam-stack&theme=dark)](https://github.com/mo-hossam-stack)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mo-hossam-stack)](https://git.io/streak-stats)
 
 ### 📈 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=dark&langs_count=8)](https://github.com/mo-hossam-stack)
