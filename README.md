@@ -88,14 +88,14 @@
 ## 💼 Some info :)
 
 - 🌱 Preparing for **Google Summer of Code 2026** contributions
-- 💡 Done **200+ LeetCode problems** 
-
-- 🏁 Achieved **Codeforces Specialist** rank through consistent competitive programming practice
+- 🏁 Achieved **Codeforces Expert** rank through consistent competitive programming practice
 - 🤝 Open to **collaborating on open-source projects**
 - 💬 Ask me about **Python, Django, REST APIs, Database Design**
 - 📫 Reach me at **m.hossam1050@nub.edu.eg**
 - ⚡ Fun fact: **I balance coding with fitness and sports!**
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/MOHAMEDHOSSAM2112?theme=dark&font=source_code_pro&radius=10)
+---
 ## 📜 Quote of the Day
 
 <p align="center">
