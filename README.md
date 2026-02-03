@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-
+<!--<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+-->
 
 ## �🔗 Connect with Me
 
@@ -32,6 +32,9 @@
 </p>
 
 ## 📊 GitHub Stats
+
+### 🏆 GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="120"/>
 
 ### 📈 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=dark&langs_count=8)](https://github.com/mo-hossam-stack)
