@@ -32,10 +32,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-### 🏆 GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="120"/>
 
 ### 📈 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=dark&langs_count=8)](https://github.com/mo-hossam-stack)
