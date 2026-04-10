@@ -12,7 +12,7 @@
 <!--<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 -->
 
-## �🔗 Connect with Me
+## � Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hossam-dev" target="_blank">
@@ -29,19 +29,19 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-### 🏆 GitHub Streak
+###  GitHub Streak
 <img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="120"/>
 
-### 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=dark&langs_count=8)](https://github.com/mo-hossam-stack)
+###  Most Used Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=dark)
 
 ---
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MOHAMEDHOSSAM2112?theme=dark&font=source_code_pro&radius=10)
 ---
-## 📜 Quote of the Day
+##  Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
