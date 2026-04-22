@@ -12,40 +12,20 @@
 <!--<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 -->
 
-## � Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hossam-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://mohossam.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Portfolio" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="mailto:m.hossam1050@nub.edu.eg" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://wa.me/2001120513871" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/>
-  </a>
-</p>
-
-##  GitHub Stats
 
 ###  GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="120"/>
 
-###  Most Used Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="260" style="margin-right: 15px;"/>
+  <img src="https://leetcard.jacoblin.cool/MOHAMEDHOSSAM2112?theme=dark&font=source_code_pro&radius=10" height="260"/>
+</div>
 
----
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/MOHAMEDHOSSAM2112?theme=dark&font=source_code_pro&radius=10)
----
-##  Quote of the Day
+<!-- ##  Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-</p>
+</p> -->
 
 
 ---
