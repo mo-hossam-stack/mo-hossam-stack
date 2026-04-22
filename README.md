@@ -16,8 +16,8 @@
 ###  GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="260" style="margin-right: 15px;"/>
-  <img src="https://leetcard.jacoblin.cool/MOHAMEDHOSSAM2112?theme=dark&font=source_code_pro&radius=10" height="260"/>
+  <img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="180" style="margin-right: 15px;"/>
+  <img src="https://leetcard.jacoblin.cool/MOHAMEDHOSSAM2112?theme=dark&font=source_code_pro&radius=10" height="180"/>
 </div>
 
 
