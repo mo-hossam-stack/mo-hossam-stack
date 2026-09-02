@@ -18,11 +18,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mo-hossam-stack&theme=highcontrast&hide_border=true" height="180" style="margin-right: 15px;"/>
   <img src="https://leetcard.jacoblin.cool/MOHAMEDHOSSAM2112?theme=dark&font=source_code_pro&radius=10" height="180"/>
-  <img
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=mo-hossam-stack&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-alt="Technology Footprint"
-width="49%"
-/>
 </div>
 
 
