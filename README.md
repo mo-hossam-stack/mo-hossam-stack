@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Mohamed Hossam</h1>
-<h3 align="center">Software Engineer | Python Backend | Open Source Contributor | Solutions Architect</h3>
+<h3 align="center">Software Engineer | Python Backend | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mo-hossam-stack">
